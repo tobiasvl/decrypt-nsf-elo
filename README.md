@@ -1,5 +1,7 @@
 # Decrypt NSF Elo
 
+**NSF ratings are now deprecated by the international FIDE ratings are used. As a result, this script is no longer maintained.**
+
 Decrypt the unofficial chess Elo ratings of NSF (Norsk sjakkforbund, the Norwegian Chess Federation).
 
 This allows you to know a person's current rating between the published official rating lists. Note, however, that this rating is _unofficial_ and is subject to change (for instance in the case of wrongly reported tournaments that are re-rated).
